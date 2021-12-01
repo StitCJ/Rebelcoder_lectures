@@ -1,4 +1,4 @@
-from DNAToolkit import*
+from ValidatingAndCountingNucleotidesDNAToolkit import*
 import random
 
 # Creating a random DNA seqeunce for testing
